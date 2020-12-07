@@ -10,6 +10,7 @@ Il vous suffit de faire : ruby parsefile.rb
 
 Besoin de savoir qui a la lettre de votre choix dans son nom ? 
 Vous devez aller dans le fichier "pickoneletter.rb" puis modifier l'argument qui se trouve entre parenthèses à la dernière ligne (32) du fichier.
+Enfin vous devez faire : ruby pickoneletter.rb
 
 Maintenant vous souhaitez avoir un mail déjà préparé à envoyer au député de votre département ?
 Je vous invite à taper la commande : ruby finalproject.rb
