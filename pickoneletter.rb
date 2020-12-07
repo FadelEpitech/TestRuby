@@ -27,6 +27,6 @@ def pickoneletter(argv)
         compteur = compteur + 1
             i = 0
     end
-end
+end 
 
 pickoneletter('B')
