@@ -43,6 +43,8 @@ puts " "
 puts "Bien cordialement,"
 puts name
 puts " "
+puts "Ps: Je suis sûr qu'en quelques mois je progresserai énormément a vos côtés chez Ding Dong !"
+puts " "
 puts "---------------------------------------------------"
 puts " "
 puts "Mail à adresser à " + email_deputy
